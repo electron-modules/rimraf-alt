@@ -2,10 +2,7 @@
   "name": "rimraf-alt",
   "version": "0.1.0",
   "description": "rimraf-alt",
-  "keywords": ["rimraf-alt"],
-  "bin": {
-    "rimraf-alt": "./bin/rimraf-alt"
-  },
+  "keywords": ["rimraf"],
   "main": "index.js",
   "repository": {
     "type": "git",
