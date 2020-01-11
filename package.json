@@ -1,0 +1,34 @@
+{
+  "name": "rimraf-alt",
+  "version": "0.1.0",
+  "description": "rimraf-alt",
+  "keywords": ["rimraf-alt"],
+  "bin": {
+    "rimraf-alt": "./bin/rimraf-alt"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xudafeng/rimraf-alt.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "co-mocha": "*",
+    "eslint": "*",
+    "eslint-plugin-mocha": "^4.11.0",
+    "git-contributor": "*",
+    "mocha": "*",
+    "nyc": "*",
+    "pre-commit": "*"
+  },
+  "scripts": {
+    "test": "nyc --reporter=lcov --reporter=text mocha",
+    "lint": "eslint . --fix",
+    "contributor": "git-contributor"
+  },
+  "pre-commit": [
+    "lint"
+  ],
+  "license": "MIT"
+}
