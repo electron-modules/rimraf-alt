@@ -1,6 +1,6 @@
 {
   "name": "rimraf-alt",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "rimraf-alt",
   "keywords": ["rimraf"],
   "main": "index.js",
@@ -9,6 +9,7 @@
     "url": "git://github.com/xudafeng/rimraf-alt.git"
   },
   "dependencies": {
+    "glob": "^7.1.6"
   },
   "devDependencies": {
     "co-mocha": "*",
