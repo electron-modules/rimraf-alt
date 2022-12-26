@@ -2,9 +2,10 @@
 
 const assert = require('assert');
 
-const rimraf-alt = require('..');
+const rimraf = require('..');
 
 describe('test', () => {
   it('should be ok', () => {
+    assert(rimraf);
   });
 });

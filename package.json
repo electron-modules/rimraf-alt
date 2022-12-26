@@ -1,12 +1,14 @@
 {
   "name": "rimraf-alt",
   "version": "0.2.0",
-  "description": "rimraf-alt",
-  "keywords": ["rimraf"],
+  "description": "rimraf alt",
+  "keywords": [
+    "rimraf"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xudafeng/rimraf-alt.git"
+    "url": "git://github.com/electron-modules/rimraf-alt.git"
   },
   "dependencies": {
     "glob": "^7.1.6"

@@ -6,15 +6,15 @@
 [![node version][node-image]][node-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/rimraf-alt.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/rimraf-alt.svg
 [npm-url]: https://npmjs.org/package/rimraf-alt
-[travis-image]: https://img.shields.io/travis/xudafeng/rimraf-alt.svg?style=flat-square
-[travis-url]: https://travis-ci.org/xudafeng/rimraf-alt
-[coveralls-image]: https://img.shields.io/coveralls/xudafeng/rimraf-alt.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/xudafeng/rimraf-alt?branch=master
-[node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/electron-modules/rimraf-alt.svg
+[travis-url]: https://travis-ci.org/electron-modules/rimraf-alt
+[coveralls-image]: https://img.shields.io/coveralls/electron-modules/rimraf-alt.svg
+[coveralls-url]: https://coveralls.io/r/electron-modules/rimraf-alt?branch=master
+[node-image]: https://img.shields.io/badge/node.js-%3E=_8-green.svg
 [node-url]: http://nodejs.org/download/
-[download-image]: https://img.shields.io/npm/dm/rimraf-alt.svg?style=flat-square
+[download-image]: https://img.shields.io/npm/dm/rimraf-alt.svg
 [download-url]: https://npmjs.org/package/rimraf-alt
 
 > rimraf-alt
